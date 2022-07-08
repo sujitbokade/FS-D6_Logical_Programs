@@ -17,12 +17,12 @@ public class PrimeNum {
             }
                 if (temp > 0)
             {
-                System.out.println("it is a prime number");
+                System.out.println("it is not a prime number");
             }
 
             else
             {
-                System.out.println("it is not a prime number");
+                System.out.println("it is a prime number");
             }
         }
 
